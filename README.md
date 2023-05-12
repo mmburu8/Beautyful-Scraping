@@ -13,7 +13,7 @@ Current Version: 2023-05-12
 
 This project scraps data from cosmetic e-commerce platforms, this version is still on this stage.
 The scraped data will be saved in a database and used to create a specialized search engine for women and entreprenuers
-to buy cosmetics online.
+to look for and buy cosmetics at a resonable price online.
 
 # SUPPORT AND CONTACT DETAILS
 
